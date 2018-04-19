@@ -10,7 +10,7 @@
 
 ## 一、对象原型链上的方法整理
 
-![object-proto](..\files\imgs\ECMAScript\object-proto.png)
+![object-proto](../files/imgs/ECMAScript/object-proto.png)
 
 - `propertyIsEnumerable()` 方法：方法返回一个布尔值，表示指定的 **属性** 是否可枚举。
 
@@ -23,8 +23,6 @@
 3. 如果对象没有指定的属性，该方法返回false
 
 如果符合1和2两个要求，就会返回true.
-
-
 
 - `isPrototypeOf()`方法：测试一个对象是否存在于另一个对象的原型链上。
 
