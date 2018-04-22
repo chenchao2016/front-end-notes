@@ -100,7 +100,7 @@
     >
     > `template: '<h1>! hello world ! <span ng-transclude></span> </h1>'`
 
-- **controller** ：字符串或者函数
+- **controller** ：字符串或者函数 , controller是用来让**不同指令间通信用的**
 
     - 字符串 —— 表示 **控制器** 的名字(ctrlDemo)，来查找注册在应用中该控制器(ctrlDemo)的**构造函数**
 
@@ -171,7 +171,7 @@
       >
       > - $log : 类似于console对象，输出一些调试信息
 
-    > 注意：**controller 与 link 的区别**
+    > 注意：**controller 与 link 的区别** 
 
 - **controllerAs** ： 语法糖，给指令的控制器设置别名。
 
