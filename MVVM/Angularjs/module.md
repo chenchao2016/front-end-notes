@@ -103,6 +103,11 @@ Service module run : 2018/4/22
 Main module run : 2018/4/22
 ```
 
+- config 、 run 注入内容
+
+> `config可以注入$stateProvider, $urlRouterProvider, $controllerProvider, $provide, $httpProvider等等provider`
+> `run可以像controlle一样注入service,例如配置公共变量等`
+
 
 
 
@@ -394,7 +399,7 @@ angular.module('moduleName',['moduleName.service','moduleName.directive','module
 
 参考文档：
 
-1. [angular学习（十四）——Module]: https://blog.csdn.net/lastsweetop/article/details/57417779
+1. [angular学习（十四）——Module]: https://blog.csdn.net/lastsweetop/article/details/57417779	"注释"
 
 2. [AngularJS angular.module]: http://www.angularjs.net.cn/api/71.html
 
