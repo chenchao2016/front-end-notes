@@ -30,6 +30,12 @@ http://ip.ws.126.net/ipquery?ip={ip地址}
 
 
 
+#### 搜狐 API 定位
+
+http://pv.sohu.com/cityjson
+
+
+
 #### 腾讯地图开放平台：
 
 http://apis.map.qq.com/ws/location/v1/ip?ip={ip地址}&key=key
