@@ -19,7 +19,7 @@
 
 
 
-
+![html_render_icon](../files/imgs/DOM/html_render_icon.png)
 
 参考文章：
 
@@ -33,3 +33,4 @@
 
 5、[关于html，css，js三者的加载顺序问题](http://www.cnblogs.com/Yoriluo/p/6783081.html)
 
+6、[HTML从输入URL到页面渲染过程](https://hanyub.github.io/2016/07/14/HTML%E4%BB%8E%E8%BE%93%E5%85%A5URL%E5%88%B0%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B/)
