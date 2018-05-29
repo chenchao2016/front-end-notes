@@ -21,6 +21,35 @@
 
 ![html_render_icon](../files/imgs/DOM/html_render_icon.png)
 
+
+
+HTML标签加载子资源
+
+```javascript
+<applet archive>
+<audio src>
+<body background>
+<embed src>
+<frame src>
+<html manifest>
+<iframe src>
+<img src>
+<input type=image src>
+<link href>
+<object data>
+<script src>
+<source src>
+<track src>
+<video poster>
+<video src>
+```
+
+
+
+
+
+
+
 参考文章：
 
 1、[从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
@@ -34,3 +63,8 @@
 5、[关于html，css，js三者的加载顺序问题](http://www.cnblogs.com/Yoriluo/p/6783081.html)
 
 6、[HTML从输入URL到页面渲染过程](https://hanyub.github.io/2016/07/14/HTML%E4%BB%8E%E8%BE%93%E5%85%A5URL%E5%88%B0%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B/)
+
+7、[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#The_browsers_we_will_talk_about) —— 又一篇神文，跟上面那个神文一个作者
+
+8、[前端必读：浏览器内部工作原理](https://kb.cnblogs.com/page/129756/)
+
